@@ -11,20 +11,24 @@ This React-based Google Books Search application is the perfect tool for anyone 
 * [License](#license)
 * [Contributing](#contributing)
 * [Questions](#questions)
-* [Tests](#links)
+* [Links](#links)
 
 ## Installation
-This generator requires the user to install dependencies using the command "npm i" in their terminal.
+This generator requires the user to install dependencies using the command "npm i" in their terminal. After installation to run the application, run "npm start" from your server.
 
 ## Usage 
-add screenshots and usage info here
+To start, in the "Book Search" container type in a book you would like to search for, then press the "SEARCH" button.
+![](./client/src/images/start.png)
+After you search for a book, you will see the search results in the "Results" container. Here you can "VIEW", which will direct you to the Google Play store where you can get more information on the book and purchase the book. Another option you have in the "Results" container is to "SAVE" which will save the book for you to look back on later under the "Saved" page.
+![](./client/src/images/search.png)
+On the Saved page, in the "Saved Books" container, you can see a list of books you saved for later. You can "VIEW", which like before will direct you to the Google Play store. You can also "DELETE" the book from your saved books list. 
+![](./client/src/images/saved.png)
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
 To contribute to this project you can fork this GitHub repository.
-
 
 ## Questions
 If you have any additional questions about this application you can reach out to me at briannahebeler@gmail.com.
