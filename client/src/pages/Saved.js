@@ -74,6 +74,9 @@ class Saved extends Component {
             </Card>
           </Col>
         </Row>
+        <br/>
+        <br/>
+        <br/>
         <Footer />
       </Container>
     );
