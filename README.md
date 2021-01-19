@@ -4,8 +4,7 @@
 ![MIT](https://img.shields.io/badge/license-MIT-blueviolet)
 
 ## Description 
-This React-based Google Books Search application is the perfect tool for anyone who reads books
-This MERN application utilizes the React lifecycle methods to query and display books based on the users searches. The application also use Node, Express and MongoDB so that users can save books to review or purchase later.
+This React-based Google Books Search application is the perfect tool for anyone who reads books. This MERN application utilizes the React lifecycle methods to query and display books based on the users searches. The application also use Node, Express and MongoDB so that users can save books to review or purchase later.
 
 ## Table of Contents  
 * [Installation](#installation)
